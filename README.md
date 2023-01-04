@@ -6,8 +6,11 @@ Browse our I2C LCD, I2C TFT, I2C VFD products:
 
 Used:
 [**OK162-12, 2x16 I2C OLED Display,**](https://www.matrixorbital.com/ok162-12) this demo should work on all Matrix Orbital Alpha-Numeric displays
+
 [**Raspberry Pi Pico RP2040**](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+
 [**BBC,**](https://www.matrixorbital.com/bbc-breadboard-cable)  4 pin 4 pin friction lock 2.54mm to 4 pin
+
 [**Thonny:**](https://thonny.org/) An integrated development environment for Python that is designed for beginners
 
 <img src=WireDiagram.png></img>
