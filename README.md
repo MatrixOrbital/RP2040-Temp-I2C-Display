@@ -29,6 +29,8 @@ On power up, you should see "Matrix Orbital" on the display
 
 ## Running the Code
 
+Please load the 'RP2040-Temp-I2C-Display.py' code and run it
+
 What you will see on the screen when working correctly (the Line 2 numbers will be different):
 
 Line 1: Temperature:
