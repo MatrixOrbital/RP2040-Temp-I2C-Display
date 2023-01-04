@@ -4,8 +4,7 @@ A very quick RP2040 demo using the onboard temperature probe to display the temp
 Browse our I2C LCD, I2C TFT, I2C VFD products:
 [**https://www.matrixorbital.com/communication-protocol/i2c**](https://www.matrixorbital.com/communication-protocol/i2c)
 
-##Introduction
-Used:
+## Hardware & Software
 
 [**OK162-12, 2x16 I2C OLED Display:**](https://www.matrixorbital.com/ok162-12) this demo should work on all Matrix Orbital Alpha-Numeric displays
 
@@ -15,7 +14,7 @@ Used:
 
 [**Thonny:**](https://thonny.org/) An integrated development environment for Python that is designed for beginners
 
-##Connecting the hardware
+## Connecting the Hardware
 
 <img src=WireDiagram.png></img>
 
@@ -28,7 +27,7 @@ RP2020 --> Display
 
 On power up, you should see "Matrix Orbital" on the display
 
-##Running the code
+## Running the Code
 
 What you will see on the screen when working correctly (the Line 2 numbers will be different):
 
