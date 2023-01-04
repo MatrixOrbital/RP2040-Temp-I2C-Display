@@ -1,4 +1,4 @@
-# Raspberry Pi Pico RP2040 I2C LCD Demo for Matrix Orbital Displays
+# Raspberry Pi Pico RP2040 I2C Demo for Matrix Orbital Displays
 A very quick RP2040 demo using the onboard temperature probe to display the temperature on an I2C Matrix Orbital Display
 
 Browse our I2C LCD, I2C TFT, I2C VFD products:
