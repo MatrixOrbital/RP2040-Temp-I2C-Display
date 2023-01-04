@@ -1,9 +1,10 @@
 # Raspberry Pi Pico RP2040 I2C Demo for Matrix Orbital Displays
-A very quick RP2040 demo using the onboard temperature probe to display the temperature on an I2C Matrix Orbital Display
+A very quick RP2040 demo using the onboard temperature probe to display the temperature on an I2C Matrix Orbital Display using Python
 
 Browse our I2C LCD, I2C TFT, I2C VFD products:
 [**https://www.matrixorbital.com/communication-protocol/i2c**](https://www.matrixorbital.com/communication-protocol/i2c)
 
+##Introduction
 Used:
 
 [**OK162-12, 2x16 I2C OLED Display:**](https://www.matrixorbital.com/ok162-12) this demo should work on all Matrix Orbital Alpha-Numeric displays
@@ -13,6 +14,8 @@ Used:
 [**BBC:**](https://www.matrixorbital.com/bbc-breadboard-cable) 4 pin leads to a 4 pin friction lock 2.54mm
 
 [**Thonny:**](https://thonny.org/) An integrated development environment for Python that is designed for beginners
+
+##Connecting the hardware
 
 <img src=WireDiagram.png></img>
 
@@ -25,7 +28,7 @@ RP2020 --> Display
 
 On power up, you should see "Matrix Orbital" on the display
 
-
+##Running the code
 
 What you will see on the screen when working correctly (the Line 2 numbers will be different):
 
