@@ -35,7 +35,7 @@ Line 1: Temperature:
 
 Line 2: 14.468C 46.243F
 
-<img src=Project_running.jpg></img>
+<img src=Project_running-1280.jpg></img>
 
 WEB https://www.matrixorbital.com
 
