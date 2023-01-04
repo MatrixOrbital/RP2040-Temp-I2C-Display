@@ -5,6 +5,7 @@ Browse our I2C LCD, I2C TFT, I2C VFD products:
 [**https://www.matrixorbital.com/communication-protocol/i2c**](https://www.matrixorbital.com/communication-protocol/i2c)
 
 Used:
+
 [**OK162-12, 2x16 I2C OLED Display,**](https://www.matrixorbital.com/ok162-12) this demo should work on all Matrix Orbital Alpha-Numeric displays
 
 [**Raspberry Pi Pico RP2040**](https://www.raspberrypi.com/products/raspberry-pi-pico/)
