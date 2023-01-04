@@ -19,7 +19,7 @@ Browse our I2C LCD, I2C TFT, I2C VFD products:
 <img src=WireDiagram.png></img>
 
 Connect a Pi Pico RP2040 to a Matrix Orbital I2C Display:
-RP2020 --> Display
+RP2040 --> Display
 1. Connect PIN 40 VBUS to PIN 1 VIN
 2. Connect PIN 2 I2C0 SCL to PIN 2 SCL
 3. Connect PIN 1 I2C0 SDA to PIN 3 SDA 
