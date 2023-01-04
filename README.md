@@ -33,7 +33,7 @@ What you will see on the screen when working correctly (the Line 2 numbers will 
 
 Line 1: Temperature:
 
-Line 2: 14.468C 46.243F
+Line 2: 13.468C 56.243F
 
 <img src=Project_running-1280.jpg></img>
 
